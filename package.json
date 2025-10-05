@@ -1,6 +1,6 @@
 {
   "name": "@prathammahajan/affiliate-management-system",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🚀 The most comprehensive, production-ready affiliate management system for Node.js with advanced commission tracking, multi-tier programs, payment processing, AI-powered fraud detection, and enterprise-grade analytics. Perfect for e-commerce, SaaS, and digital marketplaces.",
   "main": "src/index.js",
   "type": "commonjs",
@@ -230,7 +230,7 @@
   ],
   "author": {
     "name": "Pratham Mahajan",
-    "email": "prathammahajan13@gmail.com",
+    "email": "mahajanpratham88@gmail.com",
     "url": "https://github.com/prathammahajan13"
   },
   "license": "MIT",
@@ -288,7 +288,7 @@
   "maintainers": [
     {
       "name": "Pratham Mahajan",
-      "email": "prathammahajan13@gmail.com"
+      "email": "mahajanpratham88@gmail.com"
     }
   ],
   "files": [
